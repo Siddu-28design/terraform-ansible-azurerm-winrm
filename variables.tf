@@ -35,7 +35,7 @@ variable "vm_size" {
 }
 
 
-varvariable "image_publisher" {
+variable "image_publisher" {
   type    = string
   default = "MicrosoftWindowsServer"
 }
